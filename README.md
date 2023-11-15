@@ -67,10 +67,12 @@ Y el DNI tiene que tener 9 caracteres, si no se introduce correctamente, se vuel
  
 **MUY IMPORTANTE:** los campos para rellenar los datos aparecen de 1 en 1, una persona debe reservar solo **1** habitación al mismo tiempo, para evitar fallos en el programa.
 **La fecha de entrada se registra automáticamente con la fecha que tenga el ordenador en el momento de la reserva**
+
 OPCIÓN 3
 Esta opción sirve para realizar el checkout o salida de una habitación. Después muestra una factura y el precio a pagar. También, muestra la cantidad de dinero a devolver.
 
 Primero se piden el nombre y DNI del cliente. Si no se introduce un DNI correcto o si no existe el usuario aparece el siguiente mensaje.
+
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/fcef65e3-2e6d-4814-94e9-2416b60e5c5d)
 
  
