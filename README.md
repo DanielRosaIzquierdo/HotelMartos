@@ -130,6 +130,7 @@ Esta opción sirve para visualizar los ingresos totales obtenidos y el número d
 
 OPCIÓN 4/2
 Esta opción sirve para ver la cantidad de monedas y billetes restantes, en vista de que solo hay 10 de cada.
+
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/e6ac3617-3528-4acf-96e3-f5fe43952863)
 
  
@@ -139,12 +140,14 @@ Esta opción apaga el software, y antes pregunta si estas seguro de que quieres 
 Se debe introducir “y” si la respuesta es “sí”, ó “n” si la respuesta es “no”.
 
 En caso de introducir n o cualquier otra letra que no sea la y, te aparecerá el siguiente mensaje y te devolverá al menú principal.
+
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/1a45bc38-832d-4448-8413-9c0fb662f1e6)
 
- 
 
 Si se introduce la letra y el programa se cierra
 
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/feefe9c6-f324-4d70-84ad-dfb4d30b876f)
 
-
+ ## COLABORADORES
+ - Daniel Rosa Izquierdo Enlace GitHub: https://github.com/DanielRosaIzquierdo
+ - Adrián Marchal Ortega Enlace GitHub: https://github.com/AdrianMarchal
