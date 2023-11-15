@@ -149,5 +149,5 @@ Si se introduce la letra y el programa se cierra
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/feefe9c6-f324-4d70-84ad-dfb4d30b876f)
 
  ## COLABORADORES
- - Daniel Rosa Izquierdo Enlace GitHub: https://github.com/DanielRosaIzquierdo
- - Adrián Marchal Ortega Enlace GitHub: https://github.com/AdrianMarchal
+ - Daniel Rosa Izquierdo / Enlace GitHub: https://github.com/DanielRosaIzquierdo
+ - Adrián Marchal Ortega / Enlace GitHub: https://github.com/AdrianMarchal
