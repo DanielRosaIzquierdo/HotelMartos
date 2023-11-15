@@ -1,4 +1,19 @@
 # HotelMartos
+
+# MANUAL DE USUARIO
+
+ÍNDICE
+
+A) Menú de principal
+ 1. Ver el estado de ocupación de habitaciones 
+ 2. Reservar una habitación
+ 3. Realizar checkout de una habitación
+ 4. Menú de administrador
+	- Opción 1
+	- Opción 2
+	- Opción 3
+
+
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/dbefaea2-52ea-48f9-8eee-60efd52a5298)
 
  
@@ -109,3 +124,7 @@ En caso de introducir n o cualquier otra letra que no sea la y, te aparecerá el
 Si se introduce la letra y el programa se cierra
 
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/feefe9c6-f324-4d70-84ad-dfb4d30b876f)
+
+# DESCARGA
+![descarga](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/e0299ef7-2fc4-499d-81f8-6fcaea7b8af8)
+
