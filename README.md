@@ -1,8 +1,21 @@
 # HotelMartos
 
-# MANUAL DE USUARIO
+## DESCARGA
+![descarga](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/e0299ef7-2fc4-499d-81f8-6fcaea7b8af8)
 
-ÍNDICE
+## REQUISITOS MÍNIMOS
+Se necesita tener instalado:
+- Java Runtime Environment 21
+
+Para comprobar la versión de java hay que realizar los siguientes pasos
+![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/cf510298-8656-41d1-8e73-c144cad28f25)
+
+Enlace de descarga a Java Runtime Environment 21:
+- https://www.oracle.com/es/java/technologies/downloads/#jdk21-windows
+
+## MANUAL DE USUARIO
+
+### ÍNDICE
 
 A) Menú de principal
  1. Ver el estado de ocupación de habitaciones 
@@ -43,8 +56,8 @@ Y el DNI tiene que tener 9 caracteres, si no se introduce correctamente, se vuel
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/85d8fb53-e736-4bf4-9e54-e82543fdb3e4)
 
  
-MUY IMPORTANTE: los campos para rellenar los datos aparecen de 1 en 1, una persona debe reservar solo 1 habitación al mismo tiempo, para evitar fallos en el programa.
-La fecha de entrada se registra automáticamente con la fecha que tenga el ordenador en el momento de la reserva
+**MUY IMPORTANTE:** los campos para rellenar los datos aparecen de 1 en 1, una persona debe reservar solo **1** habitación al mismo tiempo, para evitar fallos en el programa.
+**La fecha de entrada se registra automáticamente con la fecha que tenga el ordenador en el momento de la reserva**
 OPCIÓN 3
 Esta opción sirve para realizar el checkout o salida de una habitación. Después muestra una factura y el precio a pagar. También, muestra la cantidad de dinero a devolver.
 
@@ -79,7 +92,7 @@ Una vez introducido el dinero correctamente, el programa te devuelve el cambio a
 
 OPCIÓN 4
 Esta opción sirve para entrar en el menú de administrador
-IMPORTANTE: el usuario y contraseña por defecto es admin, 1234. Y la  contraseña debe ser de tipo numérica, en caso contrario, el programa fallará.
+**IMPORTANTE:** el usuario y contraseña por defecto es admin, 1234. Y la  contraseña debe ser de tipo numérica, en caso contrario, el programa fallará.
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/1df72207-7858-42f3-819e-405202418be5)
 
  
@@ -125,6 +138,4 @@ Si se introduce la letra y el programa se cierra
 
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/feefe9c6-f324-4d70-84ad-dfb4d30b876f)
 
-# DESCARGA
-![descarga](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/e0299ef7-2fc4-499d-81f8-6fcaea7b8af8)
 
